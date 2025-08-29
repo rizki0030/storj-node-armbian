@@ -2,9 +2,9 @@
 set -euo pipefail
 
 ### === EDIT 3 VARIABEL INI SEBELUM JALANKAN ===
-WALLET="0xALAMAT_METAMASK_KAMU"     # <-- ganti dengan alamat MetaMask (0x...)
-EMAIL="youremail@example.com"      # <-- ganti dengan email aktif
-STORAGE="800GB"                    # <-- ganti ukuran yang mau disediakan (contoh 800GB)
+WALLET="0x5534E4Dc87F591076843F2Cfbbfb842a91096ec6"     # <-- ganti dengan alamat MetaMask (0x...)
+EMAIL="rizkiwahyuariyanto0030@gmail.com"      # <-- ganti dengan email aktif
+STORAGE="900GB"                    # <-- ganti ukuran yang mau disediakan (contoh 800GB)
 ### ==========================================
 
 echo "== START: Storj node installer (final) =="
